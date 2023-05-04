@@ -68,8 +68,10 @@ Acá un resumen:
 <hr/>
 <div>
   <h2> En la actualidad </h2>
-  <p> Actualmente trabajo en <a href="https://softdialcr.com/" target="_blank">Softdial S.A.</a> </p>
-  :arrow
+  <p> :arrow_forward:  Actualmente trabajo en <a href="https://softdialcr.com/" target="_blank">Softdial S.A.</a> </p>  
+  <p> :arrow_forward:  Participo en la organización en la Gerencias de Proyectos y Desarrollo </p>  
+  <p> :arrow_forward:  Se brinda mantenimiento y soporte al ERP <a href="https://softdialcr.com/sysweb-nova/" target="_blank">SWNOVA</a> </p>  
+  <p> :arrow_forward:  Actualmente estoy estudiando <a href="https://react.dev/" target="_blank">reactjs</a> con <a href="https://fernando-herrera.com/#/" target="_blank">Fernando Herrera</a></p> 
 </div>
 
- :arrow_forward
+ 
