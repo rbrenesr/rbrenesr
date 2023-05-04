@@ -60,8 +60,15 @@ Acá un resumen:
   </a>
   <a href="https://twitter.com/rbrenesr" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
+  </a>  
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=rbrenesr&style=flat-square&color=blue" alt=""/>
+
+<hr/>
+<div>
+  <h2> En la actualidad </h2>
+  <p> Actualmente trabajo en <a href="https://softdialcr.com/" target="_blank">Softdial S.A.</a> </p>
+  :arrow
+</div>
+
