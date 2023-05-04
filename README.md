@@ -72,3 +72,4 @@ Acá un resumen:
   :arrow
 </div>
 
+ :arrow_forward
