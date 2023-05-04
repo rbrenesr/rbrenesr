@@ -10,7 +10,7 @@ Acá un resumen:
 ✅ Bases educativas como ingeniero en Informática Empresarial de la Universidad de Costa Rica.  
 ✅ Licenciatura Gestión de Calidad de Software enfocada en Ingeniería informática de la Universidad Fidélitas.  
 
-<h3>Frontend</h3>
+<h2>Frontend</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;  
@@ -22,13 +22,13 @@ Acá un resumen:
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
   </div>
 
-<h3>Backend</h3>
+<h2>Backend</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="C# .Net Framework" alt="C# .Net Framework" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node.js" alt="node.js" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;    </div>
 
-<h3>Base de datos</h3>
+<h2>Base de datos</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="60" height="60"/>&nbsp;      
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="60" height="60"/>&nbsp;
@@ -37,7 +37,7 @@ Acá un resumen:
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="60" height="60"/>&nbsp;         
   </div>
 
-<h3>Herramientas</h3>
+<h2>Herramientas</h2>
 
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="github" alt="github" width="60" height="60"/>&nbsp;
@@ -48,7 +48,7 @@ Acá un resumen:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>  
 </div>
 
-<hr/>
+
 
 <div>
   <h2> En la actualidad </h2>
@@ -58,7 +58,7 @@ Acá un resumen:
   <p> :arrow_forward:  Actualmente estoy estudiando <a href="https://react.dev/" target="_blank">reactjs</a> con <a href="https://fernando-herrera.com/#/" target="_blank">Fernando Herrera</a></p> 
 </div>
 
-<hr/>
+
 
 <div>
   <h2> Mis sitios </h2>
