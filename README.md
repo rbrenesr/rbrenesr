@@ -63,7 +63,11 @@ Acá un resumen:
 <div>
   <h2> Mis sitios </h2>
   <p> :books:  <a href="#" target="_blank">Blog personal</a> </p>  
-  <p> :books:  <a href="#" target="_blank">Perfil y experiencias</a> </p>    
+  <p> :books:  <a href="#" target="_blank">Perfil y experiencias</a> </p>
+  <p> :books:  <a href="https://rbrenesr-journal.netlify.app/auth/login" target="_blank">JournalApp</a> </p>
+  <p> :books:  <a href="https://rbrenesr-todoapp.netlify.app/" target="_blank">TodoApp</a> </p>
+  <p> :books:  <a href="https://rbrenesr-newsapp.netlify.app/" target="_blank">NewsApp</a> </p>
+  <p> :books:  <a href="https://rbs18-gifexpert.netlify.app/" target="_blank">GifExpertApp</a> </p>  
 </div>
 
 <hr/>
