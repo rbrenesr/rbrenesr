@@ -68,7 +68,7 @@ Acá un resumen:
 
 <hr/>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rbrenesr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -78,9 +78,11 @@ Acá un resumen:
   <a href="https://twitter.com/rbrenesr" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  
+  </br>
+  <img src="https://komarev.com/ghpvc/?username=rbrenesr&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=rbrenesr&style=flat-square&color=blue" alt=""/>
+
 
 
 
