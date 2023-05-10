@@ -1,14 +1,14 @@
-### Slds  
+### Slds
 
 Mi nombre es Rafael Brenes  
 Soy administración de proyectos y desarrollor de software desde hace más de 10 años.  
-Acá un resumen:  
+Acá un resumen:
 
 ✅ Especialista en tecnología de la información con un historial demostrado de trabajo en la industria del software de sistemas administrativos y operativos.  
 ✅ Experto en Gestión de Operaciones, Herramientas de Desarrollo, Gestión Logística y Administración de Proyectos.  
 ✅ Experiencia desarrollos de proyectos del sector privado, así como sector público.  
 ✅ Bases educativas como ingeniero en Informática Empresarial de la Universidad de Costa Rica.  
-✅ Licenciatura Gestión de Calidad de Software enfocada en Ingeniería informática de la Universidad Fidélitas.  
+✅ Licenciatura Gestión de Calidad de Software enfocada en Ingeniería informática de la Universidad Fidélitas.
 
 <h2>Frontend</h2>
   <div>
@@ -48,8 +48,6 @@ Acá un resumen:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>  
 </div>
 
-
-
 <div>
   <h2> En la actualidad </h2>
   <p> :arrow_forward:  Actualmente trabajo en <a href="https://softdialcr.com/" target="_blank">Softdial S.A.</a> </p>  
@@ -57,8 +55,6 @@ Acá un resumen:
   <p> :arrow_forward:  Se brinda mantenimiento y soporte a los sistemas <a href="https://softdialcr.com/sysweb-nova/" target="_blank">SWNOVA</a>, <a href="https://softdialcr.com/sbm-web/" target="_blank">SBMWEB</a>, <a href="https://softdialcr.com/software-a-medida/" target="_blank">Soft a la Medida</a> </p>  
   <p> :arrow_forward:  Actualmente estoy estudiando <a href="https://react.dev/" target="_blank">reactjs</a> con <a href="https://fernando-herrera.com/#/" target="_blank">Fernando Herrera</a></p> 
 </div>
-
-
 
 <div>
   <h2> Mis sitios </h2>  
@@ -70,6 +66,15 @@ Acá un resumen:
   :books:  <a href="https://rbrenesr-newsapp.netlify.app/" target="_blank">NewsApp</a></br> 
   :books:  <a href="https://rbs18-gifexpert.netlify.app/" target="_blank">GifExpertApp</a></br>   
 </div>
+
+<div>
+  <h2>Lectura</h2>
+  :newspaper: <a href="https://www.itnow.connectab2b.com/" target="_blank">IT NOW</a></br> 
+  :newspaper: <a href="https://www.xataka.com/" target="_blank">XATAKA</a></br> 
+  :newspaper: <a href="https://learn.microsoft.com/es-es/" target="_blank">Microsoft Learn. Posibilidad de Spark</a></br> 
+  :newspaper: <a href="https://github.com/explore" target="_blank">GitHub Explore</a></br> 
+</div>
+
 
 <hr/>
 
@@ -86,9 +91,3 @@ Acá un resumen:
   </br>
   <img src="https://komarev.com/ghpvc/?username=rbrenesr&style=flat-square&color=blue" alt=""/>
 </div>
-
-
-
-
-
- 
