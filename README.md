@@ -4,8 +4,8 @@ Mi nombre es Rafael Brenes
 Soy administración de proyectos y desarrollor de software desde hace más de 10 años.  
 Acá un resumen:
 
-✅ Especialista en tecnología de la información con un historial demostrado de trabajo en la industria del software de sistemas administrativos y operativos.  
-✅ Experto en Gestión de Operaciones, Herramientas de Desarrollo, Gestión Logística y Administración de Proyectos.  
+✅ Tecnología de la información con un historial demostrado de trabajo en la industria del software de sistemas administrativos y operativos.  
+✅ Gestión de Operaciones, Herramientas de Desarrollo, Gestión Logística y Administración de Proyectos.  
 ✅ Experiencia desarrollos de proyectos del sector privado, así como sector público.  
 ✅ Bases educativas como ingeniero en Informática Empresarial de la Universidad de Costa Rica.  
 ✅ Licenciatura Gestión de Calidad de Software enfocada en Ingeniería informática de la Universidad Fidélitas.
