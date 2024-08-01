@@ -58,7 +58,7 @@ Acá un resumen:
 
 <div>
   <h2> Mis sitios </h2>  
-  :books:  <a href="https://rbrenesr.netlify.app/" target="_blank">Perfil y experiencias</a></br> 
+  :books:  <a href="https://rafaelbrenes.com/" target="_blank">Perfil y experiencias</a></br> 
   :books:  <a href="https://rbrenesr-blog.blogspot.com/" target="_blank">Blog personal</a> </br>
   &nbsp; &nbsp; &nbsp; &nbsp; Último artículo: <a href="https://rbrenesr-blog.blogspot.com/2023/01/utilizacion-de-api-rest.html" target="_blank">Utilización de API Rest</a></br>           
   :books:  <a href="https://rbrenesr-journal.netlify.app/auth/login" target="_blank">JournalApp</a></br> 
