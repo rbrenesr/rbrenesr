@@ -1,0 +1,12 @@
+body{
+    background-color: #090f1f;    
+}
+
+header{
+    background-color: #090f1f;
+    color: white;
+    text-align: center;
+    padding: 35px;
+}
+
+/* class="text-white text-center py-5" */
