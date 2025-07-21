@@ -30,20 +30,6 @@
 
 ---
 
-## Avances recientes (Julio 2025)
-
-* **Perfil de LinkedIn actualizado:** Foto, banner, headline y descripción optimizados alineados con la nueva propuesta de valor.
-* **Primera publicación realizada:** Se publicó un post inicial para iniciar la visibilidad, empezar a construir marca personal y validar interés. Recomendación: mantener frecuencia mínima semanal.
-* **Estrategia centralizada en Notion:** Se creó un espacio en Notion para organizar:
-
-  * Propuesta de valor
-  * Calendario editorial (LinkedIn y otras redes si aplica)
-  * Ideas de contenido y temas futuros
-  * Documentación de feedback y aprendizajes
-  * Pipeline de contactos y validaciones
-
----
-
 ## Posibles nichos iniciales
 
 | Segmento                     | Problema principal                                           | Posibles servicios                        |
@@ -87,31 +73,6 @@
 
 ---
 
-## Cronograma de acción sugerido
-
-| Semana        | Tareas en paralelo                                                                                                         | Objetivo principal                    |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 1             | - Mapear problemas frecuentes <br> - Redactar nichos preliminares <br> - Refinar propuesta de valor                        | Definir nicho inicial claro           |
-| 2             | - Optimizar LinkedIn ✅ <br> - Redactar primer post ✅ <br> - Diseñar esquema básico de landing page                         | Iniciar visibilidad mínima            |
-| 3             | - Crear landing mínima viable <br> - Publicar segundo contenido en LinkedIn <br> - Contactar prospectos                    | Lanzar presencia digital inicial      |
-| 4             | - Agendar reuniones de validación <br> - Refinar oferta según feedback <br> - Preparar paquete piloto                      | Validar interés real y ajustar oferta |
-| 5 en adelante | - Ejecutar servicio piloto <br> - Recopilar testimonios <br> - Mantener contenido regular <br> - Evaluar estructura fiscal | Comenzar ventas reales y formalizar   |
-
----
-
-## 📅 Esquema visual sugerido para contenido en Notion
-
-```
-┌─────────────┐
-│ Calendario │
-└─────────────┘
-    │
-    ├─ 📌 Temas semanales (problemas comunes, consejos prácticos, historias)
-    ├─ ✅ Publicaciones pasadas (documentar feedback y métricas)
-    ├─ ✍️ Ideas en borrador
-    └─ 💬 Comentarios y aprendizajes clave
-```
-
 **Recomendación:** utilizar secciones separadas para pipeline comercial y recopilación de casos de éxito.
 
 ---
@@ -126,3 +87,30 @@
 ---
 
 **Próximo paso sugerido:** seguir construyendo el mapa de problemas y completar propuesta de valor esta semana. Luego, avanzar con los siguientes posts y el diseño final de la landing page en Notion.
+---
+
+## 🧩 Blueprint Estratégico (estructura operativa)
+
+Este esquema operativo se gestiona actualmente en Notion y permite dar seguimiento a cada bloque clave del plan de emprendimiento.
+
+### Estructura principal
+
+- 💪 **Fortalezas personales y profesionales**
+- 🧠 **Mapear problemas frecuentes**
+- 🧭 **Nichos preliminares**
+- 💎 **Propuesta de valor**
+- 🗓️ **Calendario editorial**
+- 🌐 **Landing page / presentación**
+- 📬 **Pipeline de validaciones**
+- 🧾 **Testimonios y aprendizajes**
+- 🎯 **Paquetes de servicios / MVP**
+- 📈 **Métricas y seguimiento**
+
+### Plantilla operativa para cada subpágina
+
+- 🎯 **Objetivo de la página:** descripción breve del propósito.
+- ✅ **Tareas activas:** checklist de avances actuales.
+- 📝 **Avances y notas:** registro de aprendizajes y retroalimentación.
+- 🚀 **Próximos pasos:** máximo 3 acciones prioritarias por sección.
+
+**Nota:** Esta estructura no reemplaza el plan estratégico general, sino que lo operacionaliza y permite ajustar decisiones tácticas semana a semana.
