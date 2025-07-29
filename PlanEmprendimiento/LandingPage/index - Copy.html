@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboards para empresas con ERP</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+  <style>
+    body {
+      font-family: 'Montserrat', sans-serif;
+      background: linear-gradient(to bottom right, #f3f4f6, #e5e7eb);
+      scroll-behavior: smooth;
+    }
+    .hero {
+      background: linear-gradient(135deg, #3b82f6, #60a5fa);
+      color: white;
+      text-align: center;
+      padding: 8rem 2rem;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      font-weight: 700;
+    }
+    .btn-cta {
+      font-weight: 600;
+      padding: 0.75rem 2rem;
+      border-radius: 50px;
+    }
+    .section {
+      padding: 5rem 2rem;
+    }
+    .benefits li {
+      margin-bottom: 1rem;
+    }
+    .cta-section {
+      background-color: #facc15;
+      padding: 3rem;
+      text-align: center;
+      border-radius: 1rem;
+    }
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      background: #1f2937;
+      color: white;
+    }
+    .fade-in {
+      opacity: 0;
+      transform: translateY(20px);
+      transition: all 0.8s ease-in-out;
+    }
+    .fade-in.aos-animate {
+      opacity: 1;
+      transform: none;
+    }
+  </style>
+</head>
+<body>
+  <!-- Hero -->
+  <section class="hero" id="inicio">
+    <div class="container">
+      <h1>Tomá decisiones con datos reales, no con suposiciones.</h1>
+      <p class="mt-4">Dashboards estratégicos para empresas con ERP que aún dependen de Excel o reportes manuales.</p>
+      <a href="#contacto" class="btn btn-light btn-cta mt-4">Agenda una llamada gratuita</a>
+    </div>
+  </section>
+
+  <!-- Problema -->
+  <section class="section" id="problema">
+    <div class="container" data-aos="fade-up">
+      <h2 class="text-center mb-4">¿Te suena familiar?</h2>
+      <ul class="list-unstyled text-center">
+        <li>❌ Tu equipo prepara reportes en Excel a mano cada mes.</li>
+        <li>❌ El ERP no entrega los indicadores que realmente necesitás.</li>
+        <li>❌ La dirección no puede tomar decisiones con confianza.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Solución -->
+  <section class="section bg-light" id="solucion">
+    <div class="container" data-aos="fade-up">
+      <h2 class="text-center mb-4">La solución está en los datos que ya tenés</h2>
+      <p class="text-center">
+        Diseño dashboards estratégicos alineados a tus decisiones clave, usando la información que ya está en tu ERP.
+        Sin cambiar de sistema ni grandes inversiones.
+        En una semana podés tener visibilidad clara.
+      </p>
+    </div>
+  </section>
+
+  <!-- Beneficios -->
+  <section class="section" id="beneficios">
+    <div class="container" data-aos="fade-up">
+      <h2 class="text-center mb-4">Beneficios concretos</h2>
+      <ul class="benefits list-unstyled text-center">
+        <li>✅ Decisiones basadas en datos, no intuición.</li>
+        <li>✅ Menos dependencia del área técnica.</li>
+        <li>✅ Información actualizada sin errores manuales.</li>
+        <li>✅ Visibilidad clara sin reestructurar el ERP.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Testimonio / confianza -->
+  <section class="section bg-light" id="prueba">
+    <div class="container" data-aos="fade-up">
+      <h2 class="text-center mb-4">¿Primera vez escuchando esto?</h2>
+      <p class="text-center">Estamos buscando empresas para piloto gratuito. Podría ser la tuya.</p>
+    </div>
+  </section>
+
+  <!-- CTA final -->
+  <section class="section cta-section" id="contacto">
+    <h2 class="mb-3">Agenda una llamada de diagnóstico</h2>
+    <p class="mb-4">Hablamos 20 minutos y te muestro ejemplos concretos.</p>
+    <a href="https://calendly.com/" class="btn btn-dark btn-cta">Agendar ahora</a>
+  </section>
+
+  <!-- Sobre mí -->
+  <section class="section" id="sobre-mi">
+    <div class="container" data-aos="fade-up">
+      <h2 class="text-center mb-4">Sobre mí</h2>
+      <p class="text-center">
+        Combinó experiencia técnica profunda (ERP, SQL, procesos) con visión de negocio. Traduzco necesidades de gerencia en soluciones accionables en tiempo récord.
+      </p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>© 2025 | Tu nombre o marca personal</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init({
+      duration: 1000,
+      once: true
+    });
+  </script>
+</body>
+</html>
