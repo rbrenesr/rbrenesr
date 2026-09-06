@@ -1,43 +1,26 @@
-// Add your javascript here
-// Don't forget to add it into respective layouts where this js file is needed
-
-$(document).ready(function() {
-  AOS.init( {
-    // uncomment below for on-scroll animations to played only once
-    // once: true  
-  }); // initialize animate on scroll library
-});
-
-// Smooth scroll for links with hashes
-$('a.smooth-scroll')
-.click(function(event) {
-  // On-page links
-  if (
-    location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
-    && 
-    location.hostname == this.hostname
-  ) {
-    // Figure out element to scroll to
-    var target = $(this.hash);
-    target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-    // Does a scroll target exist?
-    if (target.length) {
-      // Only prevent default if animation is actually gonna happen
-      event.preventDefault();
-      $('html, body').animate({
-        scrollTop: target.offset().top
-      }, 1000, function() {
-        // Callback after animation
-        // Must change focus!
-        var $target = $(target);
-        $target.focus();
-        if ($target.is(":focus")) { // Checking if the target was focused
-          return false;
-        } else {
-          $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
-          $target.focus(); // Set focus again
-        };
-      });
+// Navigation remains visible when JavaScript is unavailable.
+const toggle = document.querySelector('.menu-toggle');
+const nav = document.querySelector('#navigation');
+const small = window.matchMedia('(max-width: 640px)');
+function syncNavigation() {
+  const focusWasInNav = nav.contains(document.activeElement);
+  toggle.hidden = !small.matches;
+  nav.hidden = small.matches;
+  toggle.setAttribute('aria-expanded', String(!nav.hidden));
+  if (small.matches && focusWasInNav) toggle.focus();
+}
+if (toggle && nav) {
+  syncNavigation();
+  small.addEventListener('change', syncNavigation);
+  toggle.addEventListener('click', () => {
+    nav.hidden = !nav.hidden;
+    toggle.setAttribute('aria-expanded', String(!nav.hidden));
+  });
+  nav.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && small.matches) {
+      nav.hidden = true;
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.focus();
     }
-  }
-});
+  });
+}
